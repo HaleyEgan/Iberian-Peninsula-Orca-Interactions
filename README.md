@@ -11,6 +11,9 @@ This project explores a public dataset provided by the [Ocean Biodiversity Infor
 - [MapVisualization_Nb3.ipynb](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/MapVisualization_Nb3.ipynb) - in this notebook I use plotly to plot orca interactions and the associated data on a map for better visualization and exploration.
 
 ## Results
+Below are some key visualizations of the data I want to highlight. 
+
+<br>
 
 **Stacked Bar Chart and Heatmap of Orca Interactions by Month and Year**
 ![month v year](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/Interactions%20by%20Month%20and%20Year.png)
