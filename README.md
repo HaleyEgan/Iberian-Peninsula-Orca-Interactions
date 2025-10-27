@@ -7,3 +7,7 @@ This project explores a public dataset provided by the [Ocean Biodiversity Infor
 
 ## Notebooks
 - [DatasetCurration_Nb1.ipynb](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/DatasetCurration_Nb1.ipynb) - in this notebook I examine each column to understand the importance of each variable, and whether or not to keep it in my final dataset.
+- [DataExploration_Nb2.ipynb](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/DataExploration_Nb2.ipynb) - in this notebook I perform in-depth data exploration and try to unearth trends/patterns in the data.
+- [MapVisualization_Nb3.ipynb](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/MapVisualization_Nb3.ipynb) - in this notebook I use plotly to plot orca interactions and the associated data on a map for better visualization and exploration.
+
+## Output
