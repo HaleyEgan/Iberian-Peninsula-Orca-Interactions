@@ -12,10 +12,9 @@ This project explores a public dataset provided by the [Ocean Biodiversity Infor
 
 ## Results
 
-**Stacked Bar Chart of Orca Interactions by Month and Year**
+**Stacked Bar Chart and Heatmap of Orca Interactions by Month and Year**
 ![month v year](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/Interactions%20by%20Month%20and%20Year.png)
 
-**Heatmap of Orca Interactions by Month and Year**
 ![orca interactions heatmap](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/orca%20interaction%20heatmap.png)
 
 I was surprised to see orca and human interactions off the Iberian peninsula throughout the entire year, because the orcas tend to be around the Iberian peninsula in spring and summer, and then move further away during the winter months. The only month that consistantly sees no orca interactions (with this dataset) is January. Though summer months are the most common months for an interaction, from June-September being the most common. In 2022, most interactions were in the latter half of the year, from July-December, while in 2024 interaction were common in the earlier part of the year from February-September. Most interactions occurred in 2023, and were steady throughout the entire year except for January, May, and September.
