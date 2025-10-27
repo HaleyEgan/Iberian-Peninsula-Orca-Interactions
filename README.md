@@ -26,6 +26,7 @@ I was surprised to see orca and human interactions off the Iberian peninsula thr
 
 **Monthly Orca Interactions vs Average Sea Surface Temperature**
 ![sst v interactions](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/sst%20v%20orca%20interactions.png)
+
 **Monthly Orca Interactions vs Average Sea Surface Salinity**
 ![sss v interactions](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/sss%20v%20orca%20interactions.png)
 
