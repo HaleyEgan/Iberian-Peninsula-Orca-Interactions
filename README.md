@@ -15,8 +15,6 @@ This project explores a public dataset provided by the [Ocean Biodiversity Infor
 **Stacked Bar Chart of Orca Interactions by Month and Year**
 ![month v year](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/Interactions%20by%20Month%20and%20Year.png)
 
-<br>
-
 **Heatmap of Orca Interactions by Month and Year**
 ![orca interactions heatmap](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/orca%20interaction%20heatmap.png)
 
