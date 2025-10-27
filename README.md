@@ -10,4 +10,17 @@ This project explores a public dataset provided by the [Ocean Biodiversity Infor
 - [DataExploration_Nb2.ipynb](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/DataExploration_Nb2.ipynb) - in this notebook I perform in-depth data exploration and try to unearth trends/patterns in the data.
 - [MapVisualization_Nb3.ipynb](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/MapVisualization_Nb3.ipynb) - in this notebook I use plotly to plot orca interactions and the associated data on a map for better visualization and exploration.
 
-## Output
+## Data Exploration
+
+![orca interactions heatmap](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/orca%20interaction%20heatmap.png)
+
+![sst v interactions](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/sst%20v%20orca%20interactions.png)
+
+![sss v interactions](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/sss%20v%20orca%20interactions.png)
+
+![shore distance v interactions](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/shore%20distance%20v%20orca%20interactions.png)
+
+![bathymetry](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/bathymetry%20v%20orca%20interactions.png)
+
+![correlation matrix](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/correlation%20matrix.png)
+
