@@ -1,6 +1,6 @@
 # Iberian Peninsula Orca Interactions: 2022-2024
 
-by Haley Egan
+Haley Egan
 
 
 ## Overview
