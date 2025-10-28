@@ -19,7 +19,7 @@ Below are some key visualizations of the data I want to highlight.
 
 <br>
 
-**Stacked Bar Chart and Heatmap of Orca Interactions by Month and Year**
+#### Stacked Bar Chart and Heatmap of Orca Interactions by Month and Year
 ![month v year](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/Interactions%20by%20Month%20and%20Year.png)
 
 ![orca interactions heatmap](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/Images/orca%20interaction%20heatmap.png)
