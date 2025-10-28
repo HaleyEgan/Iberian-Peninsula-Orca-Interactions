@@ -59,4 +59,4 @@ It's quite possible that orca interaction relate to other variables that are not
 
 [View Interactive Map](https://haleyegan.github.io/Iberian-Peninsula-Orca-Interactions/orca_interactions_map.html)
 
-[Map](https://github.com/HaleyEgan/Iberian-Peninsula-Orca-Interactions/blob/main/docs/orca_map_by_year.html)
+[Map](https://haleyegan.github.io/Iberian-Peninsula-Orca-Interactions/orca_map_by_year.html)
