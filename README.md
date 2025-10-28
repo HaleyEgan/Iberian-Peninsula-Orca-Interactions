@@ -50,7 +50,7 @@ Again, there's no obvious pattern between orca interactions and shore distance. 
 
 The main variables the show a strong correlation are 'sst' and 'sss' vs 'decimalLatitude'. The correlation is negative, suggesting that as latitude increases, sst and sss would decrease, and visa versa. Interestingly, 'sst' and 'decimalLongitude' appear to be highly correlated. 'sss' and 'sst' also have a very strong positive correlation. The correlation coefficients also indicate that there's no clear correlation between the different metrics we have in our data, and orca interactions.
 
-It's quite possible that orca interaction relate to other variables that are not in this dataset, such as blue-fin tuna abundance/location, quantity of vessels in the water, type of vessels in the water, age of orcas or specific pods, weather events, etc. There is data and exploration on some of these topics (such as age and individual orcas involved), but not in this dataset. It would be interesting to add this data to our dataset if it can be aquired.
+It's quite possible that orca interaction relate to other variables that are not in this dataset, such as blue-fin tuna abundance/location, quantity of vessels in the water, type of vessels in the water, age of orcas or specific pods, weather events, etc. Researchers have explored some of these topics (such as age and individual orcas involved), but that data is not included in this dataset. It would be interesting to add more diverse data to our dataset if it can be aquired.
 
 
 ## Interactive Orca Interactions Map
